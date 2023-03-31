@@ -1,7 +1,7 @@
 # Ste-Mux
 
 ## Description
-Ste-Mux is a [SwiftBar](https://github.com/swiftbar/SwiftBar) plugin to provide a way to quickly create, access, and terminate terminal multiplexer (`tmux`) sessions. It allws you to interact with ad hoc sessions as well as preconfigured `tmux` sessions.
+Ste-Mux is a [SwiftBar](https://github.com/swiftbar/SwiftBar) plugin to provide a way to quickly create, access, and terminate terminal multiplexer (`tmux`) sessions. It allows you to interact with ad hoc sessions as well as preconfigured `tmux` sessions.
 
 In addition to the `tmux` entries, the plugin allows you to create additional entries for other shell commands. For example, you could trigger predefined SSH sessions, download some data using a `curl` command, or trigger a pre-existing shell script.
 

@@ -5,6 +5,7 @@ Ste-Mux is a [SwiftBar](https://github.com/swiftbar/SwiftBar) plugin to provide 
 
 In addition to the `tmux` entries, the plugin allows you to create additional entries for other shell commands. For example, you could trigger predefined SSH sessions, download some data using a `curl` command, or trigger a pre-existing shell script.
 
+![](https://github.com/sylumer/ste-mux/wiki/images/ste-mux.png)
 
 ## Documentation
 Full documentation can be found in [the repository's wiki](https://github.com/sylumer/ste-mux/wiki). This includes information about how to install and tailor this plugin to your own needs.

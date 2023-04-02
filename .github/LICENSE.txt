@@ -10,7 +10,7 @@ Please take the time to read the legal disclaimer below.
 Legal Disclaimer
 ================
 
-This SwiftBar plugin is shared publicly to help others. You may use, and copy the plugin and use the scripts that comprise it for your own projects. For any non-personal sharing or distribution, you are required to provide a reference to this reporistory. This is simply to enable the recipient to keep up to date with any updates that we may make to the original plugin.
+This SwiftBar plugin is shared publicly to help others. You may use, and copy the plugin and use the scripts that comprise it for your own projects. For any non-personal sharing or distribution, you are required to provide a reference to this repository. This is simply to enable the recipient to keep up to date with any updates that we may make to the original plugin.
 
 Any modifications or derivative works based on any proportion of any part of this plugin, must carry a notice stating that you have modified the original and should note the date and nature of any such change. Please explicitly acknowledge this repository as the original source of plugin.
 
